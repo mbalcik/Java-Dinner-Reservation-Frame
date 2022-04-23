@@ -1,5 +1,7 @@
 package termproject;
 
+//Koç University Comp 132 project assignment
+
 public class Main {
 
 	public static void main(String[] args) {
